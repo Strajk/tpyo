@@ -1,5 +1,5 @@
 {
   "compilerOptions": {
-    "strict": false // !!! #OK: Comments are allowed in tsconfig
+    "strict": false // 🟢 Comments are allowed in tsconfig
   }
 }
