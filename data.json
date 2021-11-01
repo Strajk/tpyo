@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Foo", // !!! Extra comma
+  },
+  {
+    "name": "Bar" // !!! Comments are not allowed in plain JSON files
+  }
+]

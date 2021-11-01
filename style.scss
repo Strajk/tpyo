@@ -1,0 +1,6 @@
+@import './does-not-exist'; // !!! non-existent file
+
+a{ // !!! curly spacing
+  font-weight:bold; // !!! property spacing
+  color: red // !!! missing semicolon
+}

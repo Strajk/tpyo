@@ -1,0 +1,12 @@
+{
+  "scripts": {
+
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0"
+  }
+}
