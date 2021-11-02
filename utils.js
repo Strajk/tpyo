@@ -1,7 +1,7 @@
 /**
  * @param {number} a
  */
-export function sum(a, b) { // 🚨 b missing in JSDoc
+export function sum(a, b) { // 🚨 `b` missing in JSDoc
   return a + b;
 }
 

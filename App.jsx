@@ -13,4 +13,4 @@ class NotApp extends React.Component {
   }
 }
 
-export default NotApp // 🚨TODO: Incorrectly named
+export default NotApp // 🚨 TODO: incorrectly named
