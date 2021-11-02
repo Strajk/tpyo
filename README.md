@@ -1,8 +1,14 @@
 # ~~Tpyo~~ Typo
 
-Repo to verify that your tooling/IDE checks your code for stupid typos.
+**Repo full of stupid mistakes**, to verify that _your editor is checking for them_.
 
-In this repo, you should find:
+Do a fulltext search for `🚨` emoji, your editor should detect errors there.
+
+![screnshot.png](screenshot)
+
+❗ This repo is not meant to cover all the possible mistakes, just a few specific ones from different areas.
+
+#### Covered mistakes
 
 * Spelling
   * Incorrect spelling in comment
@@ -21,4 +27,4 @@ In this repo, you should find:
   * Stylelint
   * Non-existetent imports
 * Docker
-  *
+  * // TODO
