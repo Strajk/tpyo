@@ -25,8 +25,8 @@ Do a fulltext search for `🚨` emoji, your editor should detect errors there.
   * Missing await // TODO
   * ESLint
 * (S)CSS
-  * Codestyle
+  * Code style
   * Stylelint
-  * Non-existetent imports
+  * Non-existent imports
 * Docker
   * // TODO
