@@ -6,7 +6,7 @@
 
 Do a fulltext search for `🚨` emoji, your editor should detect errors there.
 
-![screnshot.png](screenshot)
+![example screeshot](./screenshot.png)
 
 ❗ This repo is not meant to cover all the possible mistakes, just a few specific ones from different areas.
 
