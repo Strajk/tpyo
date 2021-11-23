@@ -2,6 +2,8 @@
 
 **Repo full of stupid mistakes**, to verify that _your editor is checking for them_.
 
+❤️ Repo is work in progress, and still growing.
+
 Do a fulltext search for `🚨` emoji, your editor should detect errors there.
 
 ![screnshot.png](screenshot)
