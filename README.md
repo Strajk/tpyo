@@ -19,6 +19,8 @@ Do a fulltext search for `🚨` emoji, your editor should detect errors there.
   * References to non-existent files // TODO
 * JavaScript
   * Call to non-existent method on object
+  * Accessing non-existent members of object
+    * e.g. `PropTypes.function` instead of `PropTypes.func`
   * JSDoc: Undocumented parameter
   * Missing await // TODO
   * ESLint

@@ -2,6 +2,7 @@
   "scripts": {},
   "type": "module",
   "dependencies": {
+    "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "styled-components": "^5.3.3"
   },
